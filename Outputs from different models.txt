@@ -1,0 +1,18 @@
+Model outputs  after cross validation
+
+Note: outputs may vary evertime because of stratified train_test splitting 
+
+1. Linear regrssion 
+
+Mean 5.037482786117752
+Standard deviation 1.0594382405606955
+
+2.Decision Tree:
+
+Mean 3.9605980027473513
+Standard deviation 0.6824239774685046
+
+3. Random forest regressor
+
+Mean 3.27593470138658
+Standard deviation 0.6440461342511865
